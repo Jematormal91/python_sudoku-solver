@@ -7,4 +7,10 @@ I first wrote the program having the user write into the code as a 2D array the 
 * sample run: </br>
 <img width="700" alt="Screen Shot 2022-05-19 at 2 21 53 PM" src="https://user-images.githubusercontent.com/87743069/169372716-76239f91-d44e-4712-9291-f490adc80ab7.png">
 
+# INSTRUCTIONS
+
+* Execute python file (sudoku.py) in terminal by navigating to the directory where the file is found i.e.(cd Desktop).
+* Type --> python3 sudoku.py <-- in terminal to execute the script. <PROGRAM MUST COMPILE FROM PYTHON 3 VERSION>
+* Complete the input following the directions.
+
 * main method: [sudoku.py](sudoku.py)
