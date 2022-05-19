@@ -1,14 +1,8 @@
-# Programmer: Jeanelle Torres
-
-## Instructions ##
-# Execute python file (sudoku.py) in terminal by navigating to the directory where the file is found i.e.(cd Desktop).
-# Type --> python3 sudoku.py <-- in terminal to execute the script. <PROGRAM MUST COMPILE FROM PYTHON 3 VERSION>
-# Complete the input following the directions.
-
 # SUDOKU
 # make a 9x9 grid with numbers 1 thru 9 never repeating every row and column
 
 import numpy as np # add import to print completed grid as matrix
+
 # SAMPLE UNSOLVED SUDOKU PUZZLE AS MATRIX
 # grid = [
 # [0,0,6,0,0,0,0,0,8],
